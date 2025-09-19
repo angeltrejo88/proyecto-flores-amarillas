@@ -150,14 +150,7 @@ body{
 .greetings > span:nth-child(32) {
     animation-delay: 7.6s; /* ESPACIO */
 }
-}
-.greetings > span:nth-child(32) {
-    animation-delay: 7.8s; /* ;) */
-}
-}
-.greetings > span:nth-child(32) {
-    animation-delay: 8s; /* ESPACIO */
-}
+
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
